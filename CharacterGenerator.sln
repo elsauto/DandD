@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterLibrary", "CharacterLibrary\CharacterLibrary.csproj", "{306A6DB1-EF09-4C97-97C1-936279AC629B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CharacterCommand", "CharacterCommand\CharacterCommand.csproj", "{BE6B5F7D-DA30-4922-B6BC-916E2CCF2928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306A6DB1-EF09-4C97-97C1-936279AC629B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{306A6DB1-EF09-4C97-97C1-936279AC629B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{306A6DB1-EF09-4C97-97C1-936279AC629B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{306A6DB1-EF09-4C97-97C1-936279AC629B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE6B5F7D-DA30-4922-B6BC-916E2CCF2928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE6B5F7D-DA30-4922-B6BC-916E2CCF2928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE6B5F7D-DA30-4922-B6BC-916E2CCF2928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE6B5F7D-DA30-4922-B6BC-916E2CCF2928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
